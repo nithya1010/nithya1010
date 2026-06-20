@@ -5,11 +5,11 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
-🎓 Computer Science and Business Systems Student
+Computer Science and Business Systems Student
 
 💻 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Software Development.
 
-🌱 Currently learning:
+Currently learning:
 
 * Machine Learning
 * Deep Learning
@@ -17,27 +17,27 @@
 * Full Stack Development
 * Generative AI
 
-🚀 Featured Projects
+Featured Projects
 
-### 📊 InsightCart
+###  InsightCart
 
 AI-powered supermarket demand forecasting system built using Machine Learning and Streamlit. Predicts product demand using historical sales data and customer purchase patterns.
 
-### 🤖 SmartNotes
+###  SmartNotes
 
 AI-powered study assistant that transforms PDFs, videos, and handwritten notes into structured study materials and learning resources.
 
-### 🌐 SyncSpaceAI
+###  SyncSpaceAI
 
 Collaborative AI-powered platform designed to improve productivity, organization, and team workflows.
 
-### 🛡️ CopGuardAI
+###  CopGuardAI
 
 AI-assisted project focused on intelligent monitoring and analysis solutions.
 
----
 
-## 🛠️ Technical Skills
+
+##  Technical Skills
 
 ### Programming Languages
 
@@ -67,7 +67,7 @@ AI-assisted project focused on intelligent monitoring and analysis solutions.
 
 ---
 
-## 📈 Current Focus
+##  Current Focus
 
 * Building real-world AI and Machine Learning projects
 * Exploring Deep Learning architectures
@@ -76,7 +76,7 @@ AI-assisted project focused on intelligent monitoring and analysis solutions.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 * LinkedIn: Add your LinkedIn URL here
 * Email: Add your professional email here

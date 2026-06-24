@@ -1,7 +1,7 @@
 ## About Me
 
-I am a Computer Science and Business Systems student at Chennai Institute of Technology, passionate about Artificial Intelligence, Machine Learning, Data Science, and Business Analytics. I focus on designing and developing innovative solutions that combine technical excellence with business impact.
+I am a Computer Science and Business Systems student at Chennai Institute of Technology with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Business Analytics. I enjoy building intelligent and data-driven solutions that address real-world challenges and create meaningful impact.
 
-My work spans AI-powered educational platforms, predictive analytics systems, intelligent collaboration tools, and healthcare applications. Through projects, internships, and hackathons, I have gained hands-on experience in building scalable, data-driven solutions using modern technologies.
+My experience includes developing AI-powered applications, predictive analytics systems, healthcare-focused machine learning models, and collaborative software platforms. Through academic projects, internships, and hackathons, I have gained hands-on experience in software development, machine learning, and problem-solving.
 
-I continuously explore emerging fields such as Generative AI, Large Language Models, and Data Engineering, with the goal of creating technology that drives meaningful and sustainable innovation.
+I am continuously expanding my knowledge in Generative AI, Large Language Models, Data Engineering, Cloud Technologies, and Full-Stack Development. I am passionate about learning emerging technologies, collaborating on innovative projects, and creating scalable solutions that combine technical excellence with business value.
